@@ -17,5 +17,7 @@ Ce projet affiche un catalogue de cartes à partir d'un fichier JSON.
 1. Démarrer le projet avec Expo :
 ```bash
 npx expo start --tunnel
+
 2. Scanner le QR code avec Expo Go pour tester l'application.# tp-cartes-json
+
 
